@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Aditya J Kulkarni
-- 👀 I’m interested in Full Stack Development, Machine Learning, NLP, Deep Learning, Cloud Computing
+- 👀 I’m interested in Full Stack Development, Machine Learning, Cloud Computing
 - 🌱 I’m currently learning Natural Language Processing (NLP) and Azure
 - 📫 Mail me to kulkarniaditya167@gmail.com
 
 Technology known:
-- Mean Stack Development (Angular Framework, Express Framework, NodeJS, MongoDB)
+- MEAN Stack and MERN Stack Development 
+- Redux
 - JavaScript
+- es6/es7
 - Python
 - WordPress
 
