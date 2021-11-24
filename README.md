@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya J Kulkarni
 - 👀 I’m interested in Full Stack Development, Machine Learning, Cloud Computing
-- 🌱 I’m currently learning Natural Language Processing (NLP) and Azure
+- 🌱 I’m currently learning "whatever makes me curious" 😋
 - 📫 Mail me to kulkarniaditya167@gmail.com
 
 Technology known:
